@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Calm-Like-A-Bomb
+- 👀 I’m interested in all coding languages and tech feilds.
+- 🌱 I’m currently learning HTML/CSS/JS
+- 💞️ I’m looking to collaborate on web design projects.
